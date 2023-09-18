@@ -1,19 +1,6 @@
-# Repository
-Я хотел бы предложить вашему вниманию создание платформы, которая связывает компании или частных заказчиков, нуждающихся в программистах на временной основе, с программистами, ищущими дополнительную подработку.
-
-Основные особенности такой платформы могут включать в себя:
-
-Размещение проектов: компании или заказчики могут размещать проекты и задачи, в которых им требуется помощь программиста на определенное время.
-
-Профили программистов: программисты могут создавать свои профили, указывая свои навыки, опыт работы и доступность для подработки.
-
-Матчинг: платформа использует алгоритмы матчинга для связывания компаний с программистами, соответствующими требуемым навыкам и условиям проекта.
-
-Отзывы и рейтинги: заказчики и программисты могут оставлять отзывы и оценки друг друга после завершения проекта, что поможет строить доверие и привлекать новых пользователей.
-
-Безопасные платежи: платформа может обеспечивать безопасные способы оплаты работ, чтобы защитить как заказчиков, так и программистов.
-
-Поддержка и консультации: предоставление поддержки и консультаций по техническим вопросам как заказчикам, так и программистам во время выполнения проектов.
-
-Подведем итоги:           
-Такой стартап может быть полезным для компаний, которым требуется  временная помощь в программировании, а также для программистов, желающих зарабатывать дополнительные деньги и расширять свой профессиональный опыт. Платформа создаст удобную среду для связи и сотрудничества между заказчиками и программистами, обеспечивая выгоду обеим сторонам.
+# Repository: 
+ I would like to offer you a creation platform that connects companies or customers in France in need of programmers on a temporary basis with programmers looking for additional part-time work.
+ Key features of such a platform may include: Posting Projects: Companies or customers can post projects and tasks in which they require the help of a programmer for a specific time. Programmer Profiles: Programmers can create their own profiles, indicating their skills, work experience, and availability for part-time work.
+ Matching: The platform uses matching algorithms to connect companies with programmers who match the required skills and project conditions. Reviews and ratings: Customers and programmers can leave reviews and ratings for each other after the project is completed, which will help build trust and attract new users. Secure payments: The platform can provide secure payment methods to protect both customers and programmers.
+ Support and Consultation: Providing support and consultation on technical issues to both customers and programmers during project implementation. 
+ Let's summarize: Such a startup can be useful for companies that need temporary programming help, as well as for programmers who want to earn extra money and expand their professional experience. The platform will create a convenient environment for communication and collaboration between customers and programmers, providing benefits to both parties.
